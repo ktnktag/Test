@@ -1,20 +1,32 @@
 ## Спасибо за регистрацию в менторы RS School!
 
-### Что необходимо сделать прямо сейчас
+
+## Что такое RSSchool?
+- https://rs.school/
+- https://docs.rs.school/#/README
+
+## Что необходимо сделать прямо сейчас
 - Присоединиться к telegram для менторов:
   - Основной канал - https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ 
   - Только анонсы без обсуждений - https://t.me/+Rqy2gj5Iwdpp62F0 
-- Подтвердить вашу регистрацию на курс, если еще не подтверждали - https://app.rs.school/course/mentor/confirm?course=js-fe-2022Q1 Форму можно сабмитать несколько раз, сохраняется последний вариант.
+- Подтвердить вашу регистрацию на курс, если еще не подтверждали.
+**Форму можно сабмитать несколько раз, сохраняется последний вариант.** 
+  - Курс [JS/Frontend-разработка](https://app.rs.school/course/mentor/confirm?course=js-fe-2022Q1) 
+  - Курс [Node.js (EN)]
+  - Курс [Angular]
+  - Курс React
 - Прочитать о процессе регистрации и получении студентов можно [тут](https://docs.rs.school/#/mentoring-kick-off)
 
-### Eженедельный митинг для менторов RS School
-Участие является опциональным, митинг будет записываться, конспект сбрасываться в телеграм.  Митинги для менторов будут проходить: 
+## Eженедельный митинг для менторов RS School
+Участие является опциональным, митинг будет записываться, конспект сбрасываться в телеграм.  
+Митинги для менторов будут проходить: 
 - Курс JS/Frontend-разработка  — **по понедельникам в 12:00 UTC+2** [Ссылка для подключения](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGUwNWI5ZDctM2EwNi00MTI1LWE2OGQtNTc5YjRkY2VjNTYz%40thread.v2/0?context=%7b%22Tid%22%3a%22b41b72d0-4e9f-4c26-8a69-f949f367c91d%22%2c%22Oid%22%3a%22bfb3a45e-ab50-4cee-a085-b5c4a9411d92%22%7d)
 - Курс Node.js (EN)
 - Курс Angular
 - Курс React
 
-### Учебные планы для курсов
+## Учебные планы для курсов и документация 
+### Учебные планы
 - Курс [JS/Frontend-разработка](https://github.com/rolling-scopes-school/tasks/tree/master/stage2)
 - Курс [Node.js (EN)](https://github.com/rolling-scopes-school/tasks/tree/master/node) 
 - Курс [Angular](https://github.com/rolling-scopes-school/tasks/tree/master/angular) 
